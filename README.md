@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+XRX-SCRIPTS;FiveM+Developer+👨‍💻;Custom+Scripts+💻;Server+Optimization+🚀;Building+Immersive+RP+Servers">
 </h1>
 
+<p align="center">
+  <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="100%" />
+</p>
+
 ---
 
 ## ⚡ About Me
