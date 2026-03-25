@@ -46,12 +46,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xrxscripts&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrxscripts&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xrxscripts&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="xrxscripts" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xrxscripts&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="xrxscripts" />
+</p> -->
 
 ---
 
