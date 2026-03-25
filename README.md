@@ -20,10 +20,10 @@
 
 ## 🧩 Services
 <p align="center">
-  <img src="https://img.shields.io/badge/Custom%20Scripts-00f7ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Server%20Building-ff00c8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Optimization-00ff88?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bug%20Fixing-ff4444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Custom%20Scripts-0d6efd?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Server%20Building-6f42c1?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Optimization-198754?style=for-the-badge&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Bug%20Fixing-dc3545?style=for-the-badge&logoColor=white&labelColor=000000"/>
 </p>
 
 ---
