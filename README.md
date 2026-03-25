@@ -1,25 +1,26 @@
-<h1 align="center">Hi 👋, I'm XRX-SCRIPTS</h1>
-<h3 align="center">🚀 FiveM Server Developer | Custom Scripts | Optimization Expert</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+XRX-SCRIPTS;FiveM+Server+Developer;Custom+Scripts+%7C+Optimization+Expert;Building+Immersive+RP+Experiences">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=FiveM+Developer;Custom+Script+Creator;Server+Optimizer;UI+%2F+UX+Designer&center=true&width=500&height=45">
+  <img src="https://raw.githubusercontent.com/xrxscripts/xrxscripts/main/banner.png" />
 </p>
 
 ---
 
-## 💡 About Me
-🔥 Passionate FiveM developer focused on creating:
-- ⚡ High-performance scripts  
-- 🎮 Immersive gameplay systems  
-- 🛠️ Fully customized server solutions  
+## 🚀 About Me
+- ⚡ FiveM Server Developer  
+- 🎮 Custom Script Creator  
+- 🛠️ Server Optimization Expert  
+- 🔥 Focused on Performance & Gameplay  
 
-💬 My goal is to **deliver clean, optimized, and unique scripts** that elevate your server experience.
+💡 I build **high-quality, optimized, and immersive FiveM servers** tailored for communities.
 
 ---
 
-## 🚀 What I Do
-- 🧩 Custom Script Development  
-- 🏙️ Server Building
+## 🧩 What I Do
+- 🧠 Custom Script Development  
+- 🏙️ Server Building & Mapping  
 - ⚙️ Optimization & Performance Fixes  
 - 🐞 Bug Fixing & Debugging  
 - 🔄 Server Maintenance  
@@ -38,7 +39,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,html,css,nodejs,mysql,java,blender&theme=dark" />
 </p>
@@ -48,17 +49,33 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xrxscripts&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrxscripts&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrxscripts&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xrxscripts&theme=tokyo-night&hide_border=true"/>
 </p>
 
+---
+
+## 🔥 Featured Projects
+- 🏙️ Downtown System  
+- 🛒 Blackmarket Script  
+- 🏪 Pawnshop System  
+- 🧰 Custom Tools & Utilities  
+
+---
+
+## ⚡ Developer Quote
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xrxscripts&label=Profile+Views&color=blueviolet&style=flat"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&color=F700FF&center=true&vCenter=true&width=500&lines=I+don't+just+make+scripts...;I+build+experiences.">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xrxscripts&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
