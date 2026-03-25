@@ -19,7 +19,7 @@
 
 ## 🚀 What I Do
 - 🧩 Custom Script Development  
-- 🏙️ Server Building & Mapping  
+- 🏙️ Server Building
 - ⚙️ Optimization & Performance Fixes  
 - 🐞 Bug Fixing & Debugging  
 - 🔄 Server Maintenance  
@@ -58,21 +58,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrxscripts&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🧠 Featured Projects
-- 🏙️ **Downtown System**
-- 🛒 **Blackmarket Script**
-- 🏪 **Pawnshop System**
-- 🧰 **Custom Tools & Utilities**
-
----
-
-## ⚡ Fun Fact
-💡 I don’t just make scripts — I build **experiences**.
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xrxscripts&label=Profile+Views&color=blueviolet&style=flat"/>
