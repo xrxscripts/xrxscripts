@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,html,css,nodejs,mysql,java,blender&theme=dark" />
 </p>
