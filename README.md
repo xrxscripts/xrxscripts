@@ -11,7 +11,7 @@
 ## ⚡ About Me
 - 🚀 FiveM Server Developer  
 - 🎮 Custom Script Creator  
-- ⚙️ Optimization Expert  
+- ⚙️ Server Optimization
 - 🛠️ Server Builder  
 
 💡 I create **high-performance, immersive, and fully customized FiveM servers**.
