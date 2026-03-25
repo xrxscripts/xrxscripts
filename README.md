@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+XRX-SCRIPTS;FiveM+Server+Developer;Custom+Scripts+%7C+Optimization+Expert;Building+Immersive+RP+Experiences">
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xrxscripts/xrxscripts/main/banner.png" />
-</p>
-
 ---
 
 ## 🚀 About Me
