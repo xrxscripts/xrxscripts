@@ -55,14 +55,7 @@
 
 ---
 
-## 📈 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xrxscripts&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## ⚡ Quote
+## ⚡ Developer Quote
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=F700FF&center=true&vCenter=true&width=600&lines=I+don't+just+make+scripts...;I+build+experiences.">
 </p>
