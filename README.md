@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+XRX-SCRIPTS;FiveM+Server+Developer;Custom+Scripts+%7C+Optimization+Expert;Building+Immersive+RP+Experiences">
 </h1>
 
----
-
 ## 🚀 About Me
 - ⚡ FiveM Server Developer  
 - 🎮 Custom Script Creator  
@@ -54,14 +52,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xrxscripts&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## 🔥 Featured Projects
-- 🏙️ Downtown System  
-- 🛒 Blackmarket Script  
-- 🏪 Pawnshop System  
-- 🧰 Custom Tools & Utilities  
 
 ---
 
