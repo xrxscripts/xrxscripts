@@ -1,6 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+XRX-SCRIPTS;FiveM+Developer+👨‍💻;Custom+Scripts+💻;Server+Optimization+🚀;Building+Immersive+RP+Servers">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+XRX-SCRIPTS;👨‍💻+FiveM+Developer;💻+Custom+Scripts+%26+Systems;🚀+Server+Optimization+%26+Performance;🎯+Building+Immersive+RP+Experiences" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-Developer-00f7ff?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-RP%20Servers-ff00c8?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/xrxscripts/xrxscripts/main/banner.gif" width="100%" />
