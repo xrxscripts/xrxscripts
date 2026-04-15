@@ -48,7 +48,6 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xrxscripts&show_icons=true&theme=tokyonight&hide_border=true"/>
